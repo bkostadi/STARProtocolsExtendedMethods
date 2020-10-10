@@ -1,2 +1,3 @@
 # STAR Protocols Extended Methods
-The extended methods supplement for a STAR Protocols paper. 
+## Open Source Computational Framework in R for Studying Biological Rhythms via Analysis of Behavioral Phase, Circular Statistics, and Visualizations
+
